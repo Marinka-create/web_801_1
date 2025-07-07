@@ -25,6 +25,7 @@ button {
 button:hover{
     box-shadow: 0 0 50px #eb0954;
     transform: scale(1.1);
+    color: #eb0954;
 }
 
 #burger-menu{
@@ -55,12 +56,12 @@ button:hover{
 
 #burger-menu a{
     color: black;
+    height: 40px;
     text-decoration: none;
 }
 
 #burger-menu-close{
     position: absolute;
     bottom: 0;  
-    left: 0;  
-}
+    }
 
