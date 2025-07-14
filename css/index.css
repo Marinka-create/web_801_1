@@ -1,0 +1,18 @@
+body {
+    background: radial-gradient(circle, #42AAFF, white);
+}
+
+h1 {
+    color: #D71868;
+    text-shadow: 2px -2px 20px #ED3CCA;
+}
+
+li {
+    color: #D71868;
+    font-size: 20px;
+}
+
+#li a:hover {
+    color: #D71868;
+    font-weight: 600;
+}
