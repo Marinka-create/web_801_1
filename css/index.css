@@ -7,7 +7,7 @@ h1 {
     text-shadow: 2px -2px 20px #ED3CCA;
 }
 
-li {
+li, p {
     color: #D71868;
     font-size: 20px;
 }
@@ -16,3 +16,4 @@ li {
     color: #D71868;
     font-weight: 600;
 }
+
